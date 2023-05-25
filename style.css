@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background-color: lightpink;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: 300;
+}
+
+#apps {
+    background-color: aliceblue;
+}
+
+#juegos {
+    background-color: pink;
+
+}
+
+#chatbot{
+    background-color: lavender;
+}
+
+.line {
+    height: 6px;
+    background-color: pink;
+    width: 70px;
+    margin: 8px auto;
+}
+
+
+#myCarousel {
+
+    background-color: paleturquoise;
+}
+
+#myCarousel img {
+
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
